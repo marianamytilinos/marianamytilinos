@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in people analytics, business intelligence and data visualization.
 - 🌱 I’m currently learning R programming language, advanced Power BI and SQL.
-- 💞️ I’m looking to collaborate on business related data analytics projects.
+- 💞️ I’m looking to collaborate on business analytics projects.
 
 - 📫 Feel free to contact me at linkedin.com/in/marianamytilinos/ or marianamytilinos@outlook.com
 
