@@ -1,18 +1,20 @@
-- 👋 Hi, I’m @marianamytilinos. I'm 23 years old, born and raised in Buenos Aires (Argentina). I have a Bachelor in Business Administration from Universidad Argentina de la Empresa (UADE) and I've been working as a Total Rewards Senior Analyst at Accenture since June 2021.
+I'm enthusiastic about life-long learning and motivated by contributing to value creation and an excellent customer experience, as a result of the development and continuous improvement of digital products and processes.
 
-- 💡 I’m interested in data analytics and reporting, process improvement and business strategy and innovation.
+💡 My main career interests consist of product management, customer experience strategy, data analytics and process improvement. 
 
-- 🎓 I've completed the Google Data Analytics Professional Certificate offered by Google Career Certificates in Coursera in November 2021, and obtained the Microsoft Certified Data Analyst Associate badge in the same month. In March 2022, I completed the Analyzing Data with Python Skill Path in Codecademy.
+🎓 I obtained a Bachelor's Degree in Business Administration from Universidad Argentina de la Empresa (UADE) in July 2021. 
 
-- 🌱 My skills include:
-        -  Power BI: Advanced
-        -  Python (for data analysis): Intermediate/Advanced
-        -  Excel: Intermediate
-        -  SQL: Intermediate
-        -  Power Automate: Intermediate
+Technical skills:
+  • Power BI: Advanced
+  • Python (Data Analytics): Intermediate/advanced
+  • Tableau: Intermediate
+  • SQL: Intermediate
+  • Excel: Intermediate
+  • Alteryx Designer: Basic/intermediate
+  • Qualtrics: Basic/intermediate
+  • Power Automate: Intermediate
 
-- 📫 I’m looking to collaborate on data analytics, reporting, business intelligence or process improvement projects, or also as a project manager. 
-Feel free to contact me at linkedin.com/in/marianamytilinos/ or marianamytilinos@outlook.com
+📫 Feel free to contact me at linkedin.com/in/marianamytilinos/ or marianamytilinos@outlook.com
 
 <!---
 marianamytilinos/marianamytilinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
